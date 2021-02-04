@@ -5,7 +5,7 @@ int main()
 {
 	char name;
 	int salary, sale, CP, revenue;
-	cout << "******Homework3************\n";
+	cout << "******Homework************\n";
 	cout << "Enter Name : ";
 	cin >> name;
 	cout << "Enter Salary : ";
